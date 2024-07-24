@@ -29,6 +29,6 @@ public class HelloController {
 
     @GetMapping
     public String test() {
-        return "Hello!!!";
+        return "Hello!!! CI/CD Test.";
     }
 }
